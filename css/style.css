@@ -1,0 +1,26 @@
+body {
+    overflow-x: hidden;
+}
+
+.color-lime {
+    background-color: #88fea7
+}
+
+.color-lime-text {
+   color: #88fea7
+}
+
+.btn-get-now {
+    font-size: 1.2rem;
+    letter-spacing: 0.1rem;
+    line-height: 1;
+}
+
+
+.bg { 
+    
+background-image: url("../img/background_christmas.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
